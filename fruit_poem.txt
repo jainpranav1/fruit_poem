@@ -3,3 +3,7 @@ pear
 banana
 watermelon
 these are the best fruits
+
+milk
+cheese
+these are the best dairy products
