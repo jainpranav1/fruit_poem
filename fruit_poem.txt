@@ -1,4 +1,5 @@
 apple
 pear
 banana
+watermelon
 these are the best fruits
