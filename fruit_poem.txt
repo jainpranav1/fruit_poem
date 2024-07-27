@@ -1,0 +1,4 @@
+apple
+pear
+banana
+these are the best fruits
